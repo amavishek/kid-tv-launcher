@@ -6,4 +6,7 @@
 ✅ Smooth TV Navigation – Optimized for D-pad and remote control.
 ✅ User-Friendly Interface – Large icons for easy navigation.
 
-
+Language-
+   Java
+Tools-
+   Android Studio
